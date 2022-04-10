@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### 引用來源純屬練習
+
+[從 Hooks 開始，讓你的網頁 React 起來 系列](https://ithelp.ithome.com.tw/users/20103315/ironman/2668)
+
+[練習範例來自](https://github.com/pjchender/learn-react-from-hook-realtime-weather-app/tree/master)
